@@ -60,9 +60,12 @@ Home page ~
 
 Associated points
 
+
 ![image](https://github.com/user-attachments/assets/3a303337-8d9e-46cd-984a-2b6311c56570)
 
-Csutomer Vision
+
+Customer Vision
+
 
 ![image](https://github.com/user-attachments/assets/6ad042a0-325c-4b4e-87bd-7d1cd0b898b0)
 
