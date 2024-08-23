@@ -1,3 +1,5 @@
+# Smart Shopping Basket Analyzer
+
 # Association-rules_ML
 
 Project Overview
@@ -58,13 +60,13 @@ run this command in your terminal ---> pip install -r requirements.txt
 Home page ~ 
 
 
-Associated points
+# Associated points
 
 
 ![image](https://github.com/user-attachments/assets/3a303337-8d9e-46cd-984a-2b6311c56570)
 
 
-Customer Vision
+# Customer Vision ~ ( Clustering ) 
 
 
 ![image](https://github.com/user-attachments/assets/6ad042a0-325c-4b4e-87bd-7d1cd0b898b0)
